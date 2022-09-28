@@ -28,6 +28,6 @@ I'm a full stack developer.
 
 📫 How to reach me: linkedin (Rohnit Shriyan).
 
-⚡️ In my free time I like playing video games.
+⚡️ In my free time I like playing video games and reading manga.
 
 [![Rohnit Shriyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohnitshriyan05)](https://github.com/rohnitshriyan05/github-readme-stats)
