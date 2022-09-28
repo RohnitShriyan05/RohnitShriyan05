@@ -24,7 +24,7 @@ I'm a full stack developer.
 
 🧠 I'm currently learning Rust, Python, ThreeJs, Blender.
 
-👯‍♀️ I'm looking to collaborate on developement projects.
+👯‍♀️ I'm looking to collaborate on web developement projects.
 
 📫 How to reach me: linkedin (Rohnit Shriyan).
 
