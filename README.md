@@ -22,7 +22,7 @@ I'm a full stack developer.
 ## Know More
 👩‍💻 I'm currently working on instagram clone in MERN with nextjs and tailwindcss.
 
-🧠 I'm currently learning Rust, Python, ThreeJs, Blender.
+🧠 I'm currently improving my backend skills and learning more about great design practices
 
 👯‍♀️ I'm looking to collaborate on web developement projects.
 
