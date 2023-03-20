@@ -17,17 +17,4 @@ I'm a full stack developer.
 - 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohnit-shriyan-7319a1217/)
 -
-
-
-## Know More
-👩‍💻 I'm currently working on instagram clone in MERN with nextjs and tailwindcss.
-
-🧠 I'm currently improving my backend skills and learning more about great design practices
-
-👯‍♀️ I'm looking to collaborate on web developement projects.
-
-📫 How to reach me: linkedin (Rohnit Shriyan).
-
-⚡️ In my free time I like playing video games and reading manga.
-
 [![Rohnit Shriyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohnitshriyan05)](https://github.com/rohnitshriyan05/github-readme-stats)
