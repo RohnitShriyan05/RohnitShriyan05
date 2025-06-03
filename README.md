@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with a startup helping them build their platform<br>👯 I’m looking to collaborate on something cool<br>🌱 I’m currently learning Flutter and AI <br>⚡ Fun fact other than coding I also like finance and anime
+🔭 I’m currently working with a startup helping them build their platform<br>👯 I’m looking to collaborate on something cool<br>🌱 I’m currently learning Flutter and AI <br>
 
 
 ## 🌐 Socials:
