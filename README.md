@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working with a startup helping them build their platform<br>👯 I’m looking to collaborate on something cool<br>🌱 I’m currently learning Flutter and AI <br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohnit-shriyan-7319a1217/) 
 
